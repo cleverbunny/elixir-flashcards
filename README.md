@@ -1,4 +1,4 @@
-# elixir-flashcards
+# Elixir Flashcards
 
 Here you can find pdfs to print your own elixir-flashcards.
 
