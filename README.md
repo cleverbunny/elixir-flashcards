@@ -4,11 +4,12 @@ Here you can find pdfs to print your own elixir-flashcards.
 
 
 Each pdf file contain front(question) and the back(answer) side of the cards.
-Download pdfs from that folder. All cards are laid out ready to be printed.
-Enjoy!
+Download pdf and print. All cards are laid out ready to be printed. Enjoy!
 
-Cards intended to be printed on A6 sheet of paper. If you have a good vision
-printing on A7 sheet might work for you.
+The cards are intended to be printed on A4 sheet of paper using the multiple
+pages per sheet as shown here:
+
+![](printer-settings.png)
 
 Article with result of research done by cognitive psychologist on effectiveness
 of various learning techniques could be [found here]
