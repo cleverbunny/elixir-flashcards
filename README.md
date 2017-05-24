@@ -34,7 +34,7 @@ by submitting [simple form](https://goo.gl/nwTfQo)
 
 ## License
 
-Elixir flashcards are available under a Creative Commons BY-NC-SA 4.0 license.
+Elixir flashcards are available under a Creative Commons BY-NC-SA 2.0 license.
 
 You are free to:
 
