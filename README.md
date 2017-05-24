@@ -19,6 +19,10 @@ of various learning techniques could be [found here](http://bigthink.com/neurobo
 If you would like to get help or information about where and how to print cards -
 contact me on [twitter](https://twitter.com/Tetiana12345678)
 
+## Professional Printing
+
+If you would like professionally printed poker size flashcards like this visit [elixircards.co.uk](http://www.elixircards.co.uk).
+
 ## Feedback
 
 If you find a mistake please open an issue and I will look at it.
