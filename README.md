@@ -12,8 +12,7 @@ pages per sheet as shown here:
 ![](printer-settings.png)
 
 Article with result of research done by cognitive psychologist on effectiveness
-of various learning techniques could be [found here]
-(http://bigthink.com/neurobonkers/assessing-the-evidence-for-the-one-thing-you-never-get-taught-in-school-how-to-learn)
+of various learning techniques could be [found here](http://bigthink.com/neurobonkers/assessing-the-evidence-for-the-one-thing-you-never-get-taught-in-school-how-to-learn)
 
 ## Help
 
@@ -31,7 +30,7 @@ To share your feedback you can:
 ## Contribution
 
 To help elixir flashcard pool grow faster you can add new cards to our library
-by submitting [simple form] (https://goo.gl/nwTfQo)
+by submitting [simple form](https://goo.gl/nwTfQo)
 
 ## License
 
