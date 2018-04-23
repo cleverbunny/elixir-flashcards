@@ -78,7 +78,7 @@ We have created an example of achievement table to keep progress (master_elixir.
 
 ## Play games with flashcards
 
-[Here] (https://goo.gl/xJrUkP) you can find ideas of using cards in a fun way.
+[Here](https://goo.gl/xJrUkP) you can find ideas of using cards in a fun way.
 
 ## Feedback
 
